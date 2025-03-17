@@ -12,9 +12,9 @@ h2 {
 
 .main-container {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   flex-wrap: wrap;
-  align-items: center;
+  align-items: start;
 }
 
 .productos-container,
